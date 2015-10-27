@@ -1,0 +1,3 @@
+[autorun]
+open= My_First_Script.exe -auto
+icon=My_First_Script_Icon.jpeg
